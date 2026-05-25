@@ -11,6 +11,18 @@
             "driver": "SQLite",
             "database": "${workspaceFolder:rjbd}/Day04_practice.db",
             "name": "Day04_practice"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:rjbd}/Day 06/Day06_practice.db",
+            "name": "Day_06"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "C:\\Users\\admin\\Desktop\\RJ\\DAY 05\\Day05_practice (1).db",
+            "name": "Day 05"
         }
     ]
 }
