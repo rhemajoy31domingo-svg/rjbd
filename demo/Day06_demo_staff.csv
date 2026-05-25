@@ -1,0 +1,29 @@
+EmpID,Full Name,Email,Dept,Branch,Phone,Hire Date,Salary,Status
+E001,Maria Santos,maria.santos@company.com,IT,Manila,09171234567,2022-01-15,45000,Active
+E002,Juan Dela Cruz,juan.delacruz@company.com,HR,cebu city,09181234567,2021-03-20,38000,Active
+E003,Ana Reyes,ana.reyes@company.com,Finance,Davao City,09191234567,"March 10, 2022",52000,active
+E004,Carlos Garcia,carlos.garcia@company.com,IT,MAKATI,09201234567,2020-11-05,48000,Active
+E005,Sofia Mendoza,,Operations,Quezon City,09211234567,2023-04-18,35000,Active
+E006,Miguel Torres,miguel.torres@company.com,Operations, Cebu City,09221234567,2022-08-22,41000,Active
+E007,Isabella Cruz,isabella.cruz@company.com,Sales,Manila,09231234567,2022-05-01,33000,Active
+E002,Juan Dela Cruz,juan.delacruz@company.com,HR,cebu city,09181234567,2021-03-20,38000,Active
+E008,Rafael Aquino,rafael.aquino@company.com,Finance,davao city,09241234567,2021-01-30,55000,Active
+E009,Patricia  Lim,patricia.lim@company.com,IT,Makati,09251234567,2023-06-15,47000,Active
+E010,Daniel Tan,daniel.tan@company.com,Sales,Iloilo City,639261234567,2022-06-10,36000,Inactive
+E011,Angela Rivera,angela.rivera@company.com,HR,Quezon City,09271234567,2021-02-14,39000,Active
+E012,Roberto Flores,roberto.flores@company.com,Finance,Makati,09281234567,"Sept 1, 2020",60000,ACTIVE
+E013,Christine Go,christine.go@company.com,IT,Cebu City,,2023-07-20,44000,Active
+E014,Marco Villanueva,marco.villanueva@company.com,Sales,quezon city,09301234567,2022-03-25,34000,Active
+E015,Joy Bautista,joy.bautista@company.com,Operations,Manila,09311234567,2023-08-01,N/A,Active
+E016,Kenneth Sy,kenneth.sy@company.com,IT,Cebu City,09321234567,2021-01-10,49000,Active
+E017, Grace Domingo,grace.domingo@company.com,HR,Davao City,09331234567,2022-04-05,37000,active
+E018,Leo Pascual,leo.pascual@company.com,Finance,Quezon City,09341234567,2020-12-01,58000,Active
+E019,Nicole Ramos,nicole.ramos@company.com,Sales,Cagayan de Oro,09351234567,2023-05-15,32000,Inactive
+E020,Patrick Ong,patrick.ong@company.com,IT,Makati,09361234567,2020-10-20,51000,Active
+E009,Patricia  Lim,patricia.lim@company.com,IT,Makati,09251234567,2023-06-15,47000,Active
+E021,Lily Chua,lily.chua@company.com,HR,Manila,09371234567,2024-01-05,35000,On Leave
+E022,Mark Reyes,mark.reyes@company.com,Operations,Cebu City,09381234567,"Jan 12, 2024",40000,Active
+,Unknown Employee,,,,,,,
+E023,Sarah David,sarah.david@company.com,Finance,Davao City,09391234567,2024-02-01,53000,Active
+E024,James Lim,james.lim@company.com,Sales,Quezon City,09401234567,2024-02-15,33000,Active
+E025,Anne Tan,anne.tan@company.com,IT,Iloilo City,09411234567,2024-03-01,36000,active

@@ -1,0 +1,29 @@
+CustomerID,Full Name,Email,City,Region,Phone,Signup Date,Total Spent,Status
+C001,Maria Santos,maria.santos@email.com,Manila,NCR,09171234567,2024-01-15,28500,Active
+C002,Juan Dela Cruz,juan.delacruz@email.com,cebu city,Visayas,09181234567,2024-02-20,83200,Active
+C003,Ana Reyes,ana.reyes@email.com,Davao City,Mindanao,09191234567,"March 10, 2024",26300,Active
+C004,Carlos Garcia,carlos.garcia@email.com,MAKATI,NCR,09201234567,2023-11-05,80200,active
+C005,Sofia Mendoza,,Quezon City,NCR,09211234567,2024-04-18,16750,Active
+C006,Miguel Torres,miguel.torres@email.com, Cebu City,visayas,09221234567,2024-08-22,72760,Active
+C007,Isabella Cruz,isabella.cruz@email.com,Manila,NCR,09231234567,2024-05-01,34700,Active
+C002,Juan Dela Cruz,juan.delacruz@email.com,cebu city,Visayas,09181234567,2024-02-20,83200,Active
+C008,Rafael Aquino,rafael.aquino@email.com,davao city,mindanao,09241234567,2024-01-30,32100,Active
+C009,Patricia  Lim,patricia.lim@email.com,Makati,NCR,09251234567,2024-06-15,99350,Active
+C010,Daniel Tan,daniel.tan@email.com,Iloilo City,Visayas,639261234567,2024-06-10,41400,Inactive
+C011,Angela Rivera,angela.rivera@email.com,Pasig,NCR,09271234567,2024-02-14,16100,Active
+C012,Roberto Flores,roberto.flores@email.com,Makati,NCR,09281234567,"Sept 1, 2023",83600,ACTIVE
+C013,Christine Go,christine.go@email.com,Cebu City,Visayas,,2024-07-20,4050,Active
+C014,Marco Villanueva,marco.villanueva@email.com,quezon city,NCR,09301234567,2024-03-25,47440,Active
+C015,Joy Bautista,joy.bautista@email.com,Manila,NCR,09311234567,2024-08-01,N/A,Active
+C016,Kenneth Sy,kenneth.sy@email.com,Cebu City,Visayas,09321234567,2024-01-10,47360,Active
+C017, Grace Domingo,grace.domingo@email.com,Davao City,Mindanao,09331234567,2024-04-05,19200,active
+C018,Leo Pascual,leo.pascual@email.com,Quezon City,NCR,09341234567,2023-12-01,47300,Active
+C019,Nicole Ramos,nicole.ramos@email.com,Cagayan de Oro,Mindanao,09351234567,2024-05-15,4200,Inactive
+C020,Patrick Ong,patrick.ong@email.com,Makati,NCR,09361234567,2023-10-20,85000,Active
+C009,Patricia  Lim,patricia.lim@email.com,Makati,NCR,09251234567,2024-06-15,99350,Active
+C021,Lily Chua,lily.chua@email.com,Manila,NCR,09371234567,2025-01-05,5600,Active
+C022,Mark Reyes,mark.reyes@email.com,Cebu City,Visayas,09381234567,"Jan 12, 2025",2500,Active
+,Unknown Customer,,,,,,,
+C023,Sarah David,sarah.david@email.com,Davao City,Mindanao,09391234567,2025-02-01,12800,Active
+C024,James Lim,james.lim@email.com,Quezon City,NCR,09401234567,2025-02-15,850,Active
+C025,Anne Tan,anne.tan@email.com,Iloilo City,visayas,09411234567,2025-03-01,7200,active

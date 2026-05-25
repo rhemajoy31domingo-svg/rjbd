@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "C:\\Users\\admin\\Desktop\\lailani sesuca\\Day04_practice (2).db",
+            "name": "Lailani Sesuca"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:rjbd}/Day04_practice.db",
+            "name": "Day04_practice"
+        }
+    ]
+}

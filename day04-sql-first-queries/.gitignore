@@ -1,0 +1,4 @@
+# Ignore SQLite database files (binary - not for version control)
+. db
+.sqlite
+.sqlite3
